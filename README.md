@@ -58,7 +58,7 @@ flask-file-server/
 
 ```
 
-git clone https://github.com/MrRealmWLS/flask-file-server.git
+git clone https://github.com/RealmWLS/flask-file-server.git
 cd flask-file-server
 
 ```
